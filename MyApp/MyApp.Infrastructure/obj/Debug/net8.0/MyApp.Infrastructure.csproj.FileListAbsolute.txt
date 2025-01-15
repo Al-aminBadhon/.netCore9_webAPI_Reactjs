@@ -1,0 +1,17 @@
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Infrastructure.deps.json
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Infrastructure.dll
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Infrastructure.pdb
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Application.dll
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Core.dll
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Application.pdb
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\bin\Debug\net8.0\MyApp.Core.pdb
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.csproj.AssemblyReference.cache
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.AssemblyInfoInputs.cache
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.AssemblyInfo.cs
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.In.4513676F.Up2Date
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.dll
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\refint\MyApp.Infrastructure.dll
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\MyApp.Infrastructure.pdb
+E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net8.0\ref\MyApp.Infrastructure.dll

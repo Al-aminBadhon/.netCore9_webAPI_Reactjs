@@ -1,0 +1,15 @@
+E:\Practice\Student Platform\MyApp\MyApp.Application\bin\Debug\net9.0\MyApp.Application.deps.json
+E:\Practice\Student Platform\MyApp\MyApp.Application\bin\Debug\net9.0\MyApp.Application.dll
+E:\Practice\Student Platform\MyApp\MyApp.Application\bin\Debug\net9.0\MyApp.Application.pdb
+E:\Practice\Student Platform\MyApp\MyApp.Application\bin\Debug\net9.0\MyApp.Core.dll
+E:\Practice\Student Platform\MyApp\MyApp.Application\bin\Debug\net9.0\MyApp.Core.pdb
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.csproj.AssemblyReference.cache
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.AssemblyInfoInputs.cache
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.AssemblyInfo.cs
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.csproj.CoreCompileInputs.cache
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Ap.B540CA8A.Up2Date
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.dll
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\refint\MyApp.Application.dll
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.pdb
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\ref\MyApp.Application.dll

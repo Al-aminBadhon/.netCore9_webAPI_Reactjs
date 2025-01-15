@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Practice\\Student Platform\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB199D57-44A2-4607-BEFB-E40124D066E9}|MyApp.Core\\MyApp.Core.csproj|e:\\practice\\student platform\\myapp\\myapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB199D57-44A2-4607-BEFB-E40124D066E9}|MyApp.Core\\MyApp.Core.csproj|solutionrelative:myapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FD5367-C7D9-4A20-9E9C-E02BD2191B56}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|e:\\practice\\student platform\\myapp\\myapp.infrastructure\\dependencyinjectioninfas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FD5367-C7D9-4A20-9E9C-E02BD2191B56}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\dependencyinjectioninfas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FD5367-C7D9-4A20-9E9C-E02BD2191B56}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|e:\\practice\\student platform\\myapp\\myapp.infrastructure\\myapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61FD5367-C7D9-4A20-9E9C-E02BD2191B56}|MyApp.Infrastructure\\MyApp.Infrastructure.csproj|solutionrelative:myapp.infrastructure\\myapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C5F5FD-303D-4D06-8D12-20D8639E7A33}|MyApp.Api\\MyApp.Api.csproj|e:\\practice\\student platform\\myapp\\myapp.api\\myapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{96C5F5FD-303D-4D06-8D12-20D8639E7A33}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\myapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB199D57-44A2-4607-BEFB-E40124D066E9}|MyApp.Core\\MyApp.Core.csproj|e:\\practice\\student platform\\myapp\\myapp.core\\myapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DB199D57-44A2-4607-BEFB-E40124D066E9}|MyApp.Core\\MyApp.Core.csproj|solutionrelative:myapp.core\\myapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyApp.Core.csproj",
+              "DocumentMoniker": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Core\\MyApp.Core.csproj",
+              "RelativeDocumentMoniker": "MyApp.Core\\MyApp.Core.csproj",
+              "ToolTip": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Core\\MyApp.Core.csproj",
+              "RelativeToolTip": "MyApp.Core\\MyApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T18:37:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyApp.Api.csproj",
+              "DocumentMoniker": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Api\\MyApp.Api.csproj",
+              "RelativeDocumentMoniker": "MyApp.Api\\MyApp.Api.csproj",
+              "ToolTip": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Api\\MyApp.Api.csproj",
+              "RelativeToolTip": "MyApp.Api\\MyApp.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T18:37:05.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyApp.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "ToolTip": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "RelativeToolTip": "MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T18:37:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MyApp.Core\\Entities\\User.cs",
+              "ToolTip": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Core\\Entities\\User.cs",
+              "RelativeToolTip": "MyApp.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:49:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjectionInfas.cs",
+              "DocumentMoniker": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Infrastructure\\DependencyInjectionInfas.cs",
+              "RelativeDocumentMoniker": "MyApp.Infrastructure\\DependencyInjectionInfas.cs",
+              "ToolTip": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Infrastructure\\DependencyInjectionInfas.cs",
+              "RelativeToolTip": "MyApp.Infrastructure\\DependencyInjectionInfas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:18:06.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

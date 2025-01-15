@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "chrmY5SvX0o=",
+  "success": true,
+  "projectFilePath": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Core\\MyApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
