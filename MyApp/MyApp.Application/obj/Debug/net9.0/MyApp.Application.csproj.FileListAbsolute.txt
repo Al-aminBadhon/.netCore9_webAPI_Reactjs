@@ -13,3 +13,4 @@ E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Appl
 E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\refint\MyApp.Application.dll
 E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.pdb
 E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\ref\MyApp.Application.dll
+E:\Practice\Student Platform\MyApp\MyApp.Application\obj\Debug\net9.0\MyApp.Application.sourcelink.json

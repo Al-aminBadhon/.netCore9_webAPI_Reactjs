@@ -161,3 +161,4 @@ E:\Practice\Student Platform\MyApp\MyApp.Api\obj\Debug\net9.0\refint\MyApp.Api.d
 E:\Practice\Student Platform\MyApp\MyApp.Api\obj\Debug\net9.0\MyApp.Api.pdb
 E:\Practice\Student Platform\MyApp\MyApp.Api\obj\Debug\net9.0\MyApp.Api.genruntimeconfig.cache
 E:\Practice\Student Platform\MyApp\MyApp.Api\obj\Debug\net9.0\ref\MyApp.Api.dll
+E:\Practice\Student Platform\MyApp\MyApp.Api\obj\Debug\net9.0\MyApp.Api.sourcelink.json
