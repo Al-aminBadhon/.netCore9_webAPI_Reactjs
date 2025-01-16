@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "chrmY5SvX0o=",
+  "dgSpecHash": "UTTyMvnMRj4=",
   "success": true,
-  "projectFilePath": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Core\\MyApp.Core.csproj",
+  "projectFilePath": "E:\\Neosis\\Project\\.netCore8_webAPI_Reactjs\\MyApp\\MyApp.Core\\MyApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
   ],

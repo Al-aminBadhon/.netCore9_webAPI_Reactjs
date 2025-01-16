@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V3CsNibxxSU=",
+  "dgSpecHash": "HMdwGl4WgJA=",
   "success": true,
-  "projectFilePath": "E:\\Practice\\Student Platform\\MyApp\\MyApp.Api\\MyApp.Api.csproj",
+  "projectFilePath": "E:\\Neosis\\Project\\.netCore8_webAPI_Reactjs\\MyApp\\MyApp.Api\\MyApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -18,3 +18,23 @@ E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.I
 E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.genruntimeconfig.cache
 E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\ref\MyApp.Infrastructure.dll
 E:\Practice\Student Platform\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.sourcelink.json
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.deps.json
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.runtimeconfig.json
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.dll
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.pdb
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Application.dll
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Core.dll
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Application.pdb
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Core.pdb
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.csproj.AssemblyReference.cache
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.AssemblyInfoInputs.cache
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.AssemblyInfo.cs
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.sourcelink.json
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.In.4513676F.Up2Date
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.dll
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\refint\MyApp.Infrastructure.dll
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.pdb
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.genruntimeconfig.cache
+E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\ref\MyApp.Infrastructure.dll
