@@ -14,6 +14,6 @@ namespace MyApp.Core.Entities
         public string PasswordHash { get; set; } = null!;
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
-        public bool IsActive { get; set; } 
+        //public bool IsActive { get; set; } 
     }
 }
