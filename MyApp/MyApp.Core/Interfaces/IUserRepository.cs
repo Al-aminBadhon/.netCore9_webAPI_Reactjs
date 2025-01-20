@@ -12,5 +12,7 @@ namespace MyApp.Core.Interfaces
         Task<IEnumerable<Users>> GetAllUsers();
         Task<Users> GetUserByID(int id);
         Task<Users> AddUser(Users user);
+        Task<Users> UpdateUser(int id, Users user);
+        Task<bool> DeleteUser(int id);
     }
 }

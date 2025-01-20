@@ -32,5 +32,39 @@ namespace MyApp.Infrastructure.Repositories
             await dbContext.SaveChangesAsync();
             return user;
         }
+
+        public async Task<Users> UpdateUser(int userId, Users user)
+        {
+            var userExist = await dbContext.Users.FirstOrDefaultAsync(x => x.UserId == userId);
+            if (userExist != null)
+            {
+                userExist.UserName = user.UserName;
+                userExist.PasswordHash = user.PasswordHash;
+                userExist.Email = user.Email;
+                userExist.CreatedAt = user.CreatedAt;
+                userExist.IsActive = user.IsActive;
+                userExist.UpdatedAt = DateTime.Now;
+                dbContext.Users.Update(userExist);
+                await dbContext.SaveChangesAsync();
+                return userExist;
+            }
+
+            
+            return userExist;
+        }
+        
+        public async Task<bool> DeleteUser(int userId)
+        {
+            var userExist = await dbContext.Users.FirstOrDefaultAsync(x => x.UserId == userId);
+            if (userExist != null)
+            {
+                dbContext.Users.Remove(userExist);
+                return await dbContext.SaveChangesAsync() > 0;
+            }
+
+            
+            
+            return false;
+        }
     }
 }
