@@ -24,3 +24,16 @@ E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyA
 E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\refint\MyApp.Core.dll
 E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.pdb
 E:\Neosis\Project\.netCore8_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\ref\MyApp.Core.dll
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\bin\Debug\net9.0\MyApp.Core.deps.json
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\bin\Debug\net9.0\MyApp.Core.dll
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\bin\Debug\net9.0\MyApp.Core.pdb
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.csproj.AssemblyReference.cache
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.AssemblyInfoInputs.cache
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.AssemblyInfo.cs
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.csproj.CoreCompileInputs.cache
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.sourcelink.json
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.dll
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\refint\MyApp.Core.dll
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\MyApp.Core.pdb
+E:\Neosis\Project\.netCore9_webAPI_Reactjs\MyApp\MyApp.Core\obj\Debug\net9.0\ref\MyApp.Core.dll
