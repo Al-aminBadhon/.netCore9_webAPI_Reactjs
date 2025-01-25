@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using MyApp.Core.Interfaces;
@@ -14,11 +15,11 @@ namespace MyApp.Infrastructure
 {
     public static class DependencyInjectionInfas
     {
-        public static IServiceCollection AddInfastructureDI(this IServiceCollection services)
+        public static IServiceCollection AddInfastructureDI(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<AppDbContext>(options =>
                 {
-                options.UseSqlServer("Server=DESKTOP-NPDET1D\\SQLEXPRESS01; Database=NeoDB; Trusted_Connection=True; MultipleActiveResultSets=True; TrustServerCertificate=True");
+                options.UseSqlServer(configuration.GetConnectionString("DefaultConnectionStrings"));
             });
             services.AddScoped<IUserRepository, UserRepository>();
             return services;

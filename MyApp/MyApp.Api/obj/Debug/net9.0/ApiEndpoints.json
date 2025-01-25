@@ -2,7 +2,7 @@
   {
     "ContainingType": "MyApp.Api.Controllers.UserController",
     "Method": "AddUser",
-    "RelativePath": "api/User",
+    "RelativePath": "api/User/AddUser",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

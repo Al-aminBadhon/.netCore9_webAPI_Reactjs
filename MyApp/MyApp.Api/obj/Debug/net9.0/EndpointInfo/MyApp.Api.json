@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/User": {
+    "/api/User/AddUser": {
       "post": {
         "tags": [
           "User"

@@ -12,7 +12,7 @@ namespace MyApp.Api.Controllers
     [ApiController]
     public class UserController(ISender sender) : ControllerBase
     {
-        [HttpPost("")]
+        [HttpPost("AddUser")]
         public async Task<IActionResult> AddUser([FromBody] Users user)
         {
             var result = await sender.Send(new AddUserCommand(user));
